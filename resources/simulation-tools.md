@@ -1,0 +1,2 @@
+# Simulation
+Wokwi, Proteus, QEMU.
